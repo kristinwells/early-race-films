@@ -1,21 +1,39 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": false,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [
+    {
+      "login_name": "ccaddoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200438074?v=4",
+      "admin": false
+    }
+  ],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "kristinwells",
+    "is_private": false,
+    "title": "Early Race Films",
+    "description": "This project provides annotations on three early race films in U.S. history, including the earliest surviving footage from a Black filmmaker. We analyze one complete film, The Flying Ace (1926), from the Norman Film Company, and two film fragments, By Right of Birth (1921), and The Trooper of Troop K (1916), both from the Lincoln Motion Picture Company. ",
+    "language": "en",
+    "slug": "early-race-films",
+    "creator": "kristinwells",
+    "authors": "Cara Caddoo and Kristin Wells ",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [
+      {
+        "login_name": "ccaddoo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/200438074?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-05-26T22:54:11.744Z",
+    "updated_at": "2025-05-26T22:54:11.744Z"
   }
 }
