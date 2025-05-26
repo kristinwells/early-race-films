@@ -6,9 +6,15 @@
   },
   "users": [
     {
+      "login_name": "kristinwells",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190557918?v=4",
+      "admin": true
+    },
+    {
       "login_name": "ccaddoo",
       "avatar_url": "https://avatars.githubusercontent.com/u/200438074?v=4",
-      "admin": false
+      "admin": false,
+      "not_accepted": true
     }
   ],
   "project": {
@@ -34,6 +40,27 @@
       "tags": []
     },
     "created_at": "2025-05-26T22:54:11.744Z",
-    "updated_at": "2025-05-26T22:54:11.744Z"
-  }
+    "updated_at": "2025-05-26T22:54:11.744Z",
+    "generate_pages_site": false
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "80dd8b8f-70c9-4b06-b958-b587d572d986": {
+      "content": [],
+      "created_at": "2025-05-26T22:54:11.785Z",
+      "created_by": "kristinwells",
+      "title": "Early Race Films",
+      "updated_at": "2025-05-26T22:54:11.785Z",
+      "updated_by": "kristinwells",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "80dd8b8f-70c9-4b06-b958-b587d572d986"
+  ]
 }
