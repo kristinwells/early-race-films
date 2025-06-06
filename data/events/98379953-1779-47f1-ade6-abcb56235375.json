@@ -8,6 +8,15 @@
       "duration": 170,
       "caption_set": [],
       "set_sort": []
+    },
+    "e2b47b8a-ae15-4c93-aef2-57bd905b0081": {
+      "label": "Trooper of Troop K (1916), Lincoln Motion Picture Company",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/trooper-of-troop-k-1916/Trooper_By%20Right%20of%20Birth_Edit.mp4",
+      "duration": 34,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video"
     }
   },
   "auto_generate_web_page": true,
@@ -31,7 +40,7 @@
   "rights_statement": "https://rightsstatements.org/vocab/UND/1.0/",
   "created_at": "2025-06-06T17:37:54.018Z",
   "created_by": "kristinwells",
-  "updated_at": "2025-06-06T17:38:27.172Z",
+  "updated_at": "2025-06-06T17:54:30.334Z",
   "updated_by": "kristinwells",
   "av_file_order": [
     "bd1444c5-173c-4aef-b3a9-89ee51da5117"
