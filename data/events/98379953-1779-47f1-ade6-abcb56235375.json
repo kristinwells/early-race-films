@@ -1,0 +1,45 @@
+{
+  "audiovisual_files": {
+    "c3fe53ca-d368-444f-8f9b-fe738e61400d": {
+      "label": "",
+      "file_type": "Audio",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 90,
+      "duration_overridden": false,
+      "caption_set": []
+    },
+    "bd1444c5-173c-4aef-b3a9-89ee51da5117": {
+      "label": "By Right of Birth (1921), Lincoln Motion Picture Company",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://archive.org/download/by-right-of-birth-1921-35mm/By%20Right%20of%20Birth%20%2835mm%29.mp4",
+      "duration": 170,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "By Right of Birth",
+          "italic": true
+        },
+        {
+          "text": " is a 1921 film from the Lincoln Motion Picture Company, one of the earliest Black filmmaking companies in the U.S. It stars Clarence Brooks and Anita Thompson and was directed by Harry A. Gant. It is a 35mm film.  "
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "By Right of Birth (1921) ",
+  "rights_statement": "https://rightsstatements.org/vocab/UND/1.0/",
+  "created_at": "2025-06-06T17:37:54.018Z",
+  "created_by": "kristinwells",
+  "updated_at": "2025-06-06T17:37:54.018Z",
+  "updated_by": "kristinwells"
+}
