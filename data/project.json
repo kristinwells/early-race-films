@@ -28,19 +28,55 @@
     "authors": "Cara Caddoo and Kristin Wells ",
     "media_player": "avannotate",
     "auto_populate_home_page": false,
-    "additional_users": [
-      {
-        "login_name": "ccaddoo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/200438074?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Film element",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Context",
+          "color": "#ADFEFF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Intertitle",
+          "category": "Film element"
+        },
+        {
+          "tag": "Story",
+          "category": "Film element"
+        },
+        {
+          "tag": "Trooper of Troop K",
+          "category": "Film element"
+        },
+        {
+          "tag": "Historical",
+          "category": "Context"
+        },
+        {
+          "tag": "Production",
+          "category": "Context"
+        },
+        {
+          "tag": "Exhibition and Distribution",
+          "category": "Context"
+        },
+        {
+          "tag": "People",
+          "category": "Context"
+        },
+        {
+          "tag": "Questions",
+          "category": "Context"
+        }
+      ]
     },
     "created_at": "2025-05-26T22:54:11.744Z",
-    "updated_at": "2025-06-06T17:37:54.262Z",
+    "updated_at": "2025-06-27T13:52:16.533Z",
     "generate_pages_site": false
   },
   "annotations": {},
