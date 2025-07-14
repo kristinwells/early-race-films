@@ -8,8 +8,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Link to GPJ on UCLA site ",
-              "link": "https://oralhistory.library.ucla.edu/catalog/21198-zz000900nw?counter=1&q=george+p.+johnson+"
+              "text": "Other text here."
+            },
+            {
+              "link": "https://oralhistory.library.ucla.edu/catalog/21198-zz000900nw?counter=1&q=george+p.+johnson+",
+              "text": " Link to GPJ on UCLA site "
             }
           ]
         }
