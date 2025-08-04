@@ -4,11 +4,12 @@
   "created_by": "kristinwells",
   "title": "Lincoln Company: By Right of Birth (1921) and Trooper of Troop K (1916) ",
   "slug": "lincoln-company-by-right-of-birth-1921-and",
-  "updated_at": "2025-06-27T19:48:33.883Z",
+  "updated_at": "2025-08-04T15:13:01.640Z",
   "updated_by": "kristinwells",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "bc3dc8aa-913e-45f5-9217-7bd82a2471d4"
-  }
+  },
+  "parent": "6c164ce3-311a-4966-9901-889ee9ea06c0"
 }
