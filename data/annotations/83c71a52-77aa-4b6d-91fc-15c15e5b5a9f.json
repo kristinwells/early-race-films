@@ -1,5 +1,161 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 6300,
+      "end_time": 6359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beulah Hall as \"Clara Holmes.\" She takes an interest in Joe's well-being, much to the dismay of her ardent admirer Jimmy. Jimmy Smith as \"Jimmy\"  a popular man-about-town played by real-life Los Angeles heartthrob Jimmie Smith, who later became a well-known casting agent for Black actors in Hollywood.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "People",
+          "category": "Context"
+        }
+      ],
+      "uuid": "62d85610-9a40-4720-8e45-7f053841568b"
+    },
+    {
+      "start_time": 6360,
+      "end_time": 6419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The departure of Noble M. Johnson from the Lincoln Company in 1918 was a blow to the company. His brother, George P. Johnson, explains some of the reasons for Noble's exit which were not made public at the time  that Noble starring in Lincoln films created competition for the Universal films he appeared in: \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Historical",
+          "category": "Context"
+        }
+      ],
+      "uuid": "971fe0b3-1144-4e96-8781-d89422170406"
+    },
+    {
+      "start_time": 6420,
+      "end_time": 6479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Don't believe that stuff Joe writes I know those soldiers. You would find him flirting with some Chili Queen.\" Saguaro cacti, seen in the background of this intertitle, were a common visual signifier of Mexico. This suggests the intertitle is part of The Trooper of Troop K rather than By Right of Birth, which is set in Oklahoma and southern California. Chili queen was a derogatory term for Mexican and Mexican American women. In this scene, Jimmys use of the term aligns with his characterization in the film as insensitive and small-minded."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Intertitle",
+          "category": "Film element"
+        }
+      ],
+      "uuid": "dd0166a0-3eb1-4538-be7e-6cae02bf25ab"
+    },
+    {
+      "start_time": 6480,
+      "end_time": 6539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Trooper of Troop K was Lincoln Motion Picture Company's second production. Filmming began during the summer of 1916. A fire at the processing laboratory destroyed part of the footage, delaying the pictures release date until October. Some cast members and Lincoln Company board members pose for a photo: "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "People",
+          "category": "Context"
+        },
+        {
+          "tag": "Historical",
+          "category": "Context"
+        }
+      ],
+      "uuid": "4a03bbf8-c8f9-4cc5-bcda-44ec76386a77"
+    },
+    {
+      "start_time": 6540,
+      "end_time": 6599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Noble M. Johnson, co-founder of the Lincoln Motion Picture Company, appears in this \"iris\" matte in the upper left corner of the frame, gazing at a woman. Noble plays \"Shiftless\" Joe, a kindhearted young man who cant seem to keep a job. He has a crush on a high school-educated girl from his hometown, Clara Holmes. Most Americans during this time did not attend high school. This is the only surviving footage of Noble in a Lincoln film, and his apperance here suggests this scene is not actually part of the By Right of Birth (1921)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Historical",
+          "category": "Context"
+        },
+        {
+          "tag": "People",
+          "category": "Context"
+        }
+      ],
+      "uuid": "767f9cfd-e047-4d05-8ae7-e39f8ae1980e"
+    },
+    {
+      "start_time": 6600,
+      "end_time": 6659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This film depicts a fictionalized story of the Battle of Carrizal on June 21, 1916. African Americans soldiers of the 10th Cavalry fought in the battle, and many were killed during the United States' Punative Expedition into Mexico. The Lincoln Company hired former Black troopers and hundreds of Mexican extras to play the soldiers. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Production",
+          "category": "Context"
+        }
+      ],
+      "uuid": "92618dea-53de-431b-b4f4-58606969c859"
+    },
+    {
+      "start_time": 6660,
+      "end_time": 6719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This flyer for The Trooper of Troop K in the George P. Johnson Negro Film Collection (University of California, Los Angeles) offers the most definitive evidence that this scene is from The Trooper of Troop K. The flyer features images of several scenes in the film. In one of the images, Jimmie, Noble, and Beulah stand in front of the same house that can be seen in the fragment ascribed to By Right of Birth. Clara wears the identical striped neckerchief to the one we see in the porch scene. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Exhibition and Distribution",
+          "category": "Context"
+        }
+      ],
+      "uuid": "2b679023-1330-49c4-9bb6-a8bc79ed171e"
+    }
+  ],
   "event_id": "bc3dc8aa-913e-45f5-9217-7bd82a2471d4",
   "set": "Trooper of Troop K Annotations",
   "source_id": "bea7bb68-c748-40fa-bdc8-b8e6105cfa3c"
