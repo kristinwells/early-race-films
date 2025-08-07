@@ -307,6 +307,358 @@
         }
       ],
       "uuid": "f38d9403-eda3-4977-8bdf-8a3130a92f9d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "text": "Screenplay by George P. Johnson (b. 1885). George is the brother of the Noble M. Johnson, a prolific Hollywood actor and co-founder of the Lincoln Motion Picture Company. George was brought on to be the general booking manager in 1916. After his brothers resignation from the company, George pitched the idea for this fifth and final Lincoln film. Hear him talk about the idea here: "
+        },
+        {
+          "text": ""
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Production",
+          "category": "Context"
+        }
+      ],
+      "uuid": "09fbcd1b-a01f-4747-b15e-f42209574baf"
+    },
+    {
+      "start_time": 6,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pinky, a chauffeur and bumbling detective, played by Webb King. Pinky has been hired by the Mexican American attorney Manuel Romero to track down a missing Creek Freedmen  Black individuals who were formerly enslaved by Native American tribes  named Helen Childers, so that Romero can trick her into signing away her land. Pinky's role provides some comic relief to the story, as seen here in his \"disguise.\"    "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Story",
+          "category": "Film element"
+        },
+        {
+          "tag": "People",
+          "category": "Context"
+        }
+      ],
+      "uuid": "69318612-1caa-48a8-b7d3-a1b67a67f11d"
+    },
+    {
+      "start_time": 18,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The majority of the film takes place in southern California in the 1920s, but there are missing scenes that take place in Oklahoma, and fashbacks to around 1906, a year before Oklahoma statehood. Romero makes a trip to Oklahoma in the scenario, and the Oklahoma sequence included an appearance by Minnie Prevost (Cheyenne and Arapaho), also known as \"Indian Minnie,\" or \"Minnie Ha-Ha.\" Minnie performed in numerous Hollywood and independent films during her lifetime. In this film, she plays Minnie, an aged Indian woman, herself recently enriched through oil developments (and who retains all her unpolished habits and primitive customs, which contrast comically with the luxury and splendor with which she now surrounds herself. Minnie tells Romero the property belonged to the daughter of her nephew John Childers, whose wife had been a Colored Freedman. The family migrated to California years ago, and she had not heard from them since. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Story",
+          "category": "Film element"
+        },
+        {
+          "tag": "People",
+          "category": "Context"
+        }
+      ],
+      "uuid": "94665af9-d55e-49c3-8011-7a7ae159d14b"
+    },
+    {
+      "start_time": 25,
+      "end_time": 36,
+      "annotation": [
+        {
+          "text": "The Lincoln Motion Picture Company established the first ever national booking system for the race film industry. Race films starred Black actors and were marketed to Black and mixed-race audiences. George P. Johnson describes how it worked here: "
+        },
+        {
+          "text": " "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Exhibition and Distribution",
+          "category": "Context"
+        }
+      ],
+      "uuid": "6d125aa4-767c-4294-891d-d84435eead3f"
+    },
+    {
+      "start_time": 37,
+      "end_time": 59,
+      "annotation": [
+        {
+          "text": "Juanita Cooper, played by Anita Thompson (also known as Anita Thompson Dickinson Reynolds). A cousin of Langston Hughes, she had studied dance with Ruth St. Denis, and belonged to a well-known family of Black activists and socialites. She claimed her grandmother was Native American. W.E.B. DuBois featured her on the cover of the May 1917 issue of The Crisis. Thompson was still a high school student when she assumed her role in By Right of Birth. See an advertisement for the film with Anita Thompson and Clarence Brooks: "
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": " "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "People",
+          "category": "Context"
+        }
+      ],
+      "uuid": "0fbb4bc8-508a-4438-b861-ca761ee8c0da"
+    },
+    {
+      "start_time": 60,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Philip Jones, played by Clarence Brooks. Philip is a track star and brilliant young Colored Law student, who admires Juanita Cooper, the adopted daughter of Frank and Geraldine Cooper. Clarence Brooks, along with his older brother Dudley Brooks, Noble Johnson, and a pharmacist named James T. Smith, was one of the co-founders of the Lincoln Motion Picture Company. He became the companys male lead after Noble Johnsons resignation from the company. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "People",
+          "category": "Context"
+        },
+        {
+          "tag": "Story",
+          "category": "Film element"
+        }
+      ],
+      "uuid": "3cfec1e1-11aa-42f6-8cd9-d836eecfeee4"
+    },
+    {
+      "start_time": 74,
+      "end_time": 93,
+      "annotation": [
+        {
+          "text": "Clarence Brooks often appeared live alongside this film's exhibition. Listen to George P. Johnson discuss Clarence Brooks and his role in the exhibition of this film: "
+        },
+        {
+          "text": " "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Exhibition and Distribution",
+          "category": "Context"
+        }
+      ],
+      "uuid": "5c40b703-1088-4b8a-a0a7-5404aa4cc7ae"
+    },
+    {
+      "start_time": 105,
+      "end_time": 111,
+      "annotation": [
+        {
+          "text": "This footage is from The Trooper of Troop K, the second film from the Lincoln Motion Picture Company, made in 1916. For more on the earliest surviving footage from a Black filmmaking company, "
+        },
+        {
+          "text": ". "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Trooper of Troop K",
+          "category": "Film element"
+        }
+      ],
+      "uuid": "b51d2b94-ab33-4198-9ccc-1bf965935133"
+    },
+    {
+      "start_time": 116,
+      "end_time": 132,
+      "annotation": [
+        {
+          "text": "Juanita and Philip have developed mutual admiration for each other through \"various incidents,\" such as Philip watching Juanita in a dance performance and Juanita seeing Philip win a track race. \nRead the synopsis written for publicity here: "
+        },
+        {
+          "text": " "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Story",
+          "category": "Film element"
+        }
+      ],
+      "uuid": "3845ebc2-71fa-4a6d-9844-7e5f06d5056e"
+    },
+    {
+      "start_time": 135,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lew Meeham as Manuel Romero, \"unscrupulous stockbroker\" and would be oil-man. Grace Ellenwood as Geraldine Cooper, Juanita's adoptive mother who resents the girl and is deeply in debt from playing bridge. Geraldine has enlisted Romero to help her recoup her debts, and Romero works to con unsuspecting Creek Freedmen out of valuable land in Oklahoma known as \"alottments.\" Romero receives a letter from an office in Oklahoma about a lease of land that reads: \"Manuel Romero, Dear Sir, I was informed at register's office that you would have to properly identify Helen Childers signature. Would advise that you procure six affidavits. And send for at once. Yours truly, James Davis\". "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Intertitle",
+          "category": "Film element"
+        },
+        {
+          "tag": "Story",
+          "category": "Film element"
+        },
+        {
+          "tag": "People",
+          "category": "Context"
+        }
+      ],
+      "uuid": "c7be6a2c-8364-4a8e-ad25-d47069ee659c"
+    },
+    {
+      "start_time": 137,
+      "end_time": 139,
+      "annotation": [
+        {
+          "text": "By Right of Birth premiered on June 22 and 23, 1921 at the Trinity Auditorium with a capacity of 1,527 seats. Hear George P. Johnson describe the exhibition of the film here: "
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": " "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Exhibition and Distribution",
+          "category": "Context"
+        }
+      ],
+      "uuid": "c0b5cd76-9650-4487-89ac-218c3df74b5f"
+    },
+    {
+      "start_time": 140,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester \"Leo\" Bates as Frank Cooper, Juanita's adopted father. Frank found Juanita as a baby after an accident on the way to California left the girl all alone. He assumes that she is Native American, adopts her, and dotes lovingly on her. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "People",
+          "category": "Context"
+        },
+        {
+          "tag": "Story",
+          "category": "Film element"
+        }
+      ],
+      "uuid": "c39ecb66-f9f0-4132-b60f-db8f3a7224f1"
+    },
+    {
+      "start_time": 147,
+      "end_time": 152,
+      "annotation": [
+        {
+          "text": "The once-communal land of the Native American tribes had been divided up into allotments as a result of U.S. federal policies in what is now Oklahoma. When oil and gas was discovered, making those land allotments extremely valuable, white settlers used legal guardianship and other means of abuse to manipulate the land, money, and legal power from their rightful Native American owners, which was enabled by various federal policies. For Freedmen, former enslaved people of the Native American tribes, this was made even more complex by many tribes' refusal to acknowledge federal treaties regarding their citizenship rights. <"
+        },
+        {
+          "text": "  "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Historical",
+          "category": "Context"
+        }
+      ],
+      "uuid": "453da6e7-38d4-4635-be7b-c1db51cd5f27"
+    },
+    {
+      "start_time": 153,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Romero, at the bequest of Juanita's adoptive mother Geraldine, has been tracking down the owner of a lucrative lease in Oklahoma, and realizes Helen Childers is Juanita. Assured of her real identity, he tries to manipulate her into signing away her allotment for an insignificant sum. His efforts are thwarted by Philip, who comes to protect Juanita. A fight ensues as Philip tries to retrieve the lease, leading to a car chase in which Romero is accidentally killed. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Story",
+          "category": "Film element"
+        }
+      ],
+      "uuid": "d32b10a7-3148-492b-a10e-681d0325b08d"
+    },
+    {
+      "start_time": 161,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beatrice George as Mother Agnes. Mother Agnes is a matronly woman who helps young colored girls in need of a home. She is actually Agnes Childers, who came to California from Oklahoma seeking her long-lost daughter, Helen. By the end of the film, Juanita discovers that she is Helen Childers and that Mother Agnes is actually her birth mother. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Story",
+          "category": "Film element"
+        },
+        {
+          "tag": "People",
+          "category": "Context"
+        }
+      ],
+      "uuid": "bcf8a4e3-1ef9-422a-b30c-e519c0e9e772"
+    },
+    {
+      "start_time": 166,
+      "end_time": 170,
+      "annotation": [
+        {
+          "text": "The Black press, newspapers and other media sources made by and Black communities, helped spread the word about the new film's release and exhibition, as seen in these compiled clippings here: "
+        },
+        {
+          "text": " "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Historical",
+          "category": "Context"
+        }
+      ],
+      "uuid": "74d78316-0b40-4e22-92ce-63a58bd7337c"
     }
   ],
   "set": "By Right of Birth Annotations",
