@@ -8,7 +8,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Screenplay by George P. Johnson (b. 1885). George is the brother of the Noble M. Johnson, a prolific Hollywood actor and co-founder of the Lincoln Motion Picture Company. George was brought on to be the general booking manager in 1916. After his brothers resignation from the company, George pitched the idea for this fifth and final Lincoln film. Listen to him talk about the idea.  "
+              "text": "Screenplay by George P. Johnson (b. 1885). George is the brother of the Noble M. Johnson, a prolific Hollywood actor and co-founder of the Lincoln Motion Picture Company. George was brought on to be the general booking manager in 1916. After his brother' s resignation from the company, George pitched the idea for this fifth and final Lincoln film. "
+            },
+            {
+              "text": "Listen to him talk about the idea",
+              "bold": true,
+              "link": "https://dlib.indiana.edu/avannotate/caddoo/GPJ-T4S1-p115.mp3"
+            },
+            {
+              "text": ".  "
             }
           ]
         }
