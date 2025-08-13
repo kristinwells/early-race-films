@@ -4,7 +4,120 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "<text coming> "
+          "text": "By Right of Birth (1921) and Trooper of Troop K (1916) Introductory Essay ",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Produced in 1921, the surviving footage of By Right of Birth is among the earliest extant films made by an African American company. It was the fifth—and last—release from the Lincoln Motion Picture Company, a pioneering “race film” studio that served Black and mixed race audiences in the 1910s and early 1920s. Founded in 1916, Lincoln not only galvanized the race film industry with its five features; it also built a national distribution network and helped launch the career of Oscar Micheaux. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Because several reels and intertitles are missing, the film can be challenging to follow. This AVAnnotate project guides viewers through the surviving narrative while providing background on the cast, production, historical context, and the film’s circulation. By Right of Birth centers on the story of Juanita, a young woman of Black and Native descent whose claim to an oil-rich allotment attracts scheming speculators. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It is impossible to determine certain definitive aspects of Right of Birth and its script. Multiple undated versions of the script and scenario (the story upon which the script is based) survive in the Lincoln archives. Moreover, audiences viewed different versions of Right of Birth. Scenes were also cut on the road to satisfy local censors or to replace damaged reels. Rather than presuming a single authoritative version, this summary and larger AVAnnotate project embraces the film’s fluid, adaptive nature and draws chiefly on documents in the George P. Johnson Collection and reviews in the Black press. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://dlib.indiana.edu/avannotate/caddoo/GPJ-Reel7-pt1_BRoB-229.pdf",
+              "caption": "\"By Right of Birth\" title card, from the George P. Johnson collection at UCLA Libraries. ",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "text": ""
         }
       ]
     }
@@ -17,6 +130,6 @@
   "slug": "lincoln-motion-picture-company-introduction",
   "created_at": "2025-08-04T15:12:38.887Z",
   "created_by": "kristinwells",
-  "updated_at": "2025-08-04T15:12:38.887Z",
+  "updated_at": "2025-08-13T14:41:06.497Z",
   "updated_by": "kristinwells"
 }
