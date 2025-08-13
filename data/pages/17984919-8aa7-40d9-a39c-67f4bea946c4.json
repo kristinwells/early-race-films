@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Early Race Films - Project Introduction ",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "By Cara Caddoo (Associate Professor, Department of History and The Media School, Indiana University) and Kristin Wells (PhD Candidate in The Media School, Indiana University) "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": " "
+        }
+      ]
+    }
+  ],
+  "title": "Early Race Films ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "early-race-films",
+  "created_at": "2025-08-13T15:01:50.043Z",
+  "created_by": "kristinwells",
+  "updated_at": "2025-08-13T15:01:50.043Z",
+  "updated_by": "kristinwells"
+}
