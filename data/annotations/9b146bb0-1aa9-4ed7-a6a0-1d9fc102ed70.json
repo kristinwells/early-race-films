@@ -12,10 +12,12 @@
             },
             {
               "text": "Listen to him talk about the idea",
-              "bold": true
+              "bold": true,
+              "link": "https://purl.dlib.indiana.edu/iudl/media/z10w72jz9m"
             },
             {
-              "text": ".  "
+              "text": ".  ",
+              "link": "https://purl.dlib.indiana.edu/iudl/media/z10w72jz9m"
             }
           ]
         }
