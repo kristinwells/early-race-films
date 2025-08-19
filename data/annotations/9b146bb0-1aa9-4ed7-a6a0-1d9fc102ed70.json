@@ -178,7 +178,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Clarence Brooks often appeared live alongside this film's exhibition. Listen to George P. Johnson discuss Clarence Brooks and his role in the exhibition of this film. "
+              "text": "Clarence Brooks often appeared live alongside this film's exhibition. "
+            },
+            {
+              "text": "Listen to George P. Johnson discuss Clarence Brooks and his role in the exhibition of this film",
+              "bold": true,
+              "link": "https://purl.dlib.indiana.edu/iudl/media/5547727c2v"
+            },
+            {
+              "text": ". "
             }
           ]
         }
