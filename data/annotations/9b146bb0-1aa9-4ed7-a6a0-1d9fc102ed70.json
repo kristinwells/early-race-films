@@ -292,7 +292,15 @@
               "link": "https://dlib.indiana.edu/avannotate/caddoo/GPJ-Reel7-pt1_BRoB-230.pdf"
             },
             {
-              "text": ". Listen to George P. Johnson describe the exhibition of the film.  "
+              "text": ". "
+            },
+            {
+              "text": "Listen to George P. Johnson describe the exhibition of the film.",
+              "bold": true,
+              "link": "https://purl.dlib.indiana.edu/iudl/media/801p49111h"
+            },
+            {
+              "text": "  "
             }
           ]
         }
